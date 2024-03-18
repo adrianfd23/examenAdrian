@@ -1,13 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package miexamen;
+//<h1>Entornos de desarrollo UT3</h1>
+//Esta clase sirve para realizar el examen de la UT3 del módulo Entornos de Desarrollo
+//Curso de Git y github de píldoras informáticas: https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU
 
 /**
- *
- * @author alu06d
+ * @author Autor: Adrian
+ * @version Versión: 1.0.0
+ * @since Fecha de creación de la clase: 18/03/2024
  */
+
+package miexamen;
+
 public class claseexamen {
-    
+    public static void main(String[] args) {
+        System.out.println("Estoy haciendo el examen de la UT3");
+    }
 }
